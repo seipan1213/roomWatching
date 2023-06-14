@@ -1,7 +1,7 @@
 #ifndef CONFIG_HPP
 #define CONFIG_HPP
 
-#define AMBIENT_CHNNEL_ID 00000
+#define AMBIENT_CHANNEL_ID 00000
 #define AMBIENT_WRITE_KEY "XXX"
 #define SSID "XXX"
 #define PASS "XXX"
