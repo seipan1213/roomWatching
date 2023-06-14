@@ -9,8 +9,8 @@
 
 #define SLEEP_SEC(us) (((uint64_t)us) * 1000000L)
 
-unsigned int ambient_channel_id = AMBINET_CHNNEL_ID;
-const char *ambient_write_key = AMBINET_WRITE_KEY;
+unsigned int ambient_channel_id = AMBIENT_CHNNEL_ID;
+const char *ambient_write_key = AMBIENT_WRITE_KEY;
 
 const char *ssid = SSID;
 const char *password = PASS;
